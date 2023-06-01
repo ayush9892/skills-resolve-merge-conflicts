@@ -1,6 +1,3 @@
-
-Reference by GitHub
-
+# References
 
 * octocat 1 😈
-
